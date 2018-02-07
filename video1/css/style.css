@@ -33,3 +33,7 @@ button {
   display: block;
   padding: 40px 20px;
 }
+
+p {
+  background-color: yellow;
+}
